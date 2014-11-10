@@ -21,5 +21,5 @@ Keskellä suurikokoinen 3D kartta/opastusalue, josta käyttäjä näkee missä kohdass
 Alueella näkyy myös vapaat luokat (ovi näkyy vihreänä, jos vapaa - punaisena, jos varattu)
 
 Opastaminen:
-Yläreunassa luokan hakupalkki
+Yläreunassa luokan hakupalkki / opettajan nimen haku
 Loput ruudusta 3D opastusta navigaattorilaitteen tyyliin.
