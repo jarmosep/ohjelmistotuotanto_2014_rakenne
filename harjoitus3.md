@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 1 - Kuinka sisätilapaikannusta voisi hyödyntää Metropolian Leppävaaran kampuksella?
 
 >>>>>
@@ -35,3 +36,6 @@ iii. Luokan etsintä ja navigointi:
 	 Samanlainen ohjeistus kuin luokan etsinnässä, mutta kun käyttäjä on kohteen lähettyvillä, älylaitteeseen ilmestyy
 	 tavoitettavan henkilön kasvot tunnistamista varten.
 >>>>>>> f6f17a5b61ef3e9840f9c3c6dc8deedddd808d8f
+=======
+tyhjÃ¤
+>>>>>>> 123d27854f561762abb7cdae1df6b32fadb3b067
