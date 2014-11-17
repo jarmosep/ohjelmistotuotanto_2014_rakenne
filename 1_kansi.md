@@ -3,8 +3,7 @@
 
 Listaa tänne
 
-* Projektin otsikko eli tuotteen nimi
-* Tiimin nimi
-* Tiimin jäsenet
-* Päivämäärä
-* Dokumentin versio, jos tarpeen 
+### Track-O-Polia
+## TrackingVaara
+# Jarmo Seppälä, Teemu Suvinen, Joni Oksanen
+# 17.11.2014
