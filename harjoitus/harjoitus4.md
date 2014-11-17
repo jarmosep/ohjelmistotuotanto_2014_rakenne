@@ -42,4 +42,25 @@ Lista on erittäin yksityiskohtainen.
 	* kaikki vaatimukset on kategorioitu, numeroitu ja niiden tärkeys on merkitty kirjainsymbolein
 	* vaatimukset on kuvattu erittäin yksityiskohtaisesti ja yksiselitteisesti
 	* vaatimuksissa on myös määritelty kohdistuuko se käyttäjään vai ohjelmistoon
-	
+
+### Miltä näyttää
+- Käyttöliittymästä ei ole kuvia
+
+### Prosessimalli
+- EReseptin käyttöönotto toteutetaan vesiputousmallilla. Arvioitu kesto on n. 7kk.
+- Kyseessä on vain pohja suunnitelmalle, joten mitään määriteltyä budjettia tai resursseja ei ole. EReseptin käyttöönotto suoritetaan paikallisella tasolla eikä kattavaa maanlaajuista suunnitelmaa ole saatavilla.'
+
+- Riskianalyysissä on 8 kohtaa
+- Projektinhallinta
+	* Aikataulu (viivästykset)
+	* Kustannukset (budjetti ylittyy)
+	* Resurssit (osaamisen kohdistaminen väärin)
+- Potilastietojärjestelmät
+	* Bugit
+- Tietoliikenne ja yhteiset palvelut, laitteet
+	* Laitteet ja tietoliikenneyhteydet hankittava riittävän ajoissa (toimitusaika)
+- Varmennepalvelut
+- Toimintamallit ja prosessit
+- Käyttöönotto ja tuotannonaikainen tuki
+- Koulutus
+- Viestintä	
