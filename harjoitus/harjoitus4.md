@@ -64,3 +64,20 @@ Lista on erittäin yksityiskohtainen.
 - Käyttöönotto ja tuotannonaikainen tuki
 - Koulutus
 - Viestintä	
+
+
+### Johtopäätökset
+
+- Mikä tekee hyvän dokumentin?
+ * selkeä yleisilme / rakenne
+ * johdonmukaisuus
+ 
+ - Onko tämä sellainen? Miksi?
+ * Dokumentti on tekstisisällöltään hyvä, mutta kaaviot ovat epäselviä
+ * Kaikki kohdat on perusteellisesti selitetty
+ * Yhtenäinen ulkoasu
+ 
+ - Kaavioiden käyttö: laatu? määrä? hyöty? 
+ * kaavioita on suhteellisen paljon
+ * kaavioiden laatu melko huono, epäselviä ja monimutkaisia
+ * kaaviot ovat hyödyllisiä, jos asiasta on valmiiksi jotain tietoa
