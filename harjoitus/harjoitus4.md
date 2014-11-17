@@ -27,3 +27,19 @@ potilaan hoitavana lääkärinä. Määräykset voivat olla tarkoitettuja potilaalle ta
 - Käyttötapauksia on lukuisia, joista kaikkia ei tähän harjoitukseen kannata listata.
 Lista on erittäin yksityiskohtainen.
 - Varsinaisia käyttötapausskenaarioita tai tarinoita ei ole listattu
+
+### Järjestelmän yleisrakenne
+
+- Järjestelmän kuvaukseen on käytetty erilaisia kaaviotekniikoita:
+	* käyttötapauskaavioita, jotka havainnollistavat mitä sovelluksella voi tehdä ja mikä toiminnallisuus
+	on käytettävissä milläkin käyttäjäryhmällä
+	* uml-luokkakaavioita, joilla havainnollistetaan eReseptin rakennetta
+	* työnkulkukaavio, jolla näytetään projektin etenemistä
+	
+### Funktionaaliset ja ei-funktionaaliset vaatimukset
+
+- Järjestelmän vaatimukset on esitetty taulukoina:
+	* kaikki vaatimukset on kategorioitu, numeroitu ja niiden tärkeys on merkitty kirjainsymbolein
+	* vaatimukset on kuvattu erittäin yksityiskohtaisesti ja yksiselitteisesti
+	* vaatimuksissa on myös määritelty kohdistuuko se käyttäjään vai ohjelmistoon
+	
