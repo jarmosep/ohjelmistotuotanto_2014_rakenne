@@ -25,7 +25,15 @@ Kehittäjäpainoitteiset tapaukset. Tällaisia tapauksia ovat esimerkiksi:
 ![Use case diagram example](http://users.metropolia.fi/~jarmosep/Kayttotapaukset1.png)
 ![Use case diagram example](http://users.metropolia.fi/~jarmosep/Kayttotapaukset2.png)
 
-* Kuvaile tärkeimmät käyttötapauksista käyttötapausskenaarioina mallipohjaan perustuen
-  * mallipohja: määritä alkutila (initial state), normaali kulku (normal flow), lopputila (end state)
-  * kerro myös kuinka normaali kulku voi mennä pieleen sekä
-  * mahdolliset vaihtoehtoiset kulut (alternate flow)
+
+### Käyttötapausskenaariot
+
+| Käyttötapaus                      	| Käyttäjä tarkastaa skannaamalla tietyn luokan tietokoneiden ohjelmistot                                                                                                                                                                                                                                                            	|
+|-----------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Alkutila                          	| 1. Käyttäjä on luokan ulkopuolella 2. Wifi-yhteys ja gyroskooppi ovat päällä 3. Puhelimen kamera toimii                                                                                                                                                                                                                            	|
+| Tapahtumien normaali kulku        	| 1. Käyttäjä avaa,ohjelman älylaitteellaan 2. Käyttäjä valitsee,skannaustoiminnon 3. Käyttäjä suuntaa,älylaitteensa kameran haluamansa luokan oveen ja tunnukseen 4. Sovellus värjää,luokan oven vihreäksi – luokka on vapaa loppupäivän. 5. Lisätiedot luokasta avautuvat:,oppilaan hakema ohjelmisto löytyy luokan tietokoneilta. 	|
+| Vikatilanteet                     	| 3a. Sovellus ei tunnista oven tunnusta (esim. tunnus on likaantunut) 3b. Käyttäjä on liian kaukana ovesta, tunnistusta ei voi tehdä 3c. Älylaite heiluu liikaa skannauksen yhteydessä, tunnistusta ei voi tehdä 3d. Ympäristössä on liian vähän valoa, tunnistusta ei voi tehdä                                                    	|
+| Vaihtoehtoinen  tapahtumien kulku 	| 4a. Sovellus värjää luokan oven punaiseksi – luokka on varattulukujärjestyksen mukaan /  toisen henkilön toimesta                                                                                                                                                                                                                  	|
+| Lopputila                         	|                                                                                                                                                                                                                                                                                                                                    	|
+
+
