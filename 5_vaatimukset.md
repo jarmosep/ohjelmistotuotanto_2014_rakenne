@@ -2,10 +2,18 @@
 
 
 * Funktionaaliset vaatimukset
- - painiketta painamalla pitää tapahtua sitä kuvaava toiminto. Esimerkiksi tähti-ikonia painamalla pitää avautua "Suosikit" -välilehti, ratas-kuvaketta painamalla "Asetukset".
- - Luokkaa haettaessa ehdotuksiin pitää listautua luokkien tunnuksia, ei opettajien nimiä.
- - Opettajaa haettaessa ehdotuksiin pitää listautua opettajien nimiä, ei luokkien tunnuksia.
- - 
+ 
+| Toiminto | Kuvaus |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ohjelman käynnistys | Ohjelma käynnistetään älylaitteelta Track-O-Polian kuvaketta painamalla. |
+| Tietojen haku palvelimelta | Sovelluksen tulee hakea Metropolian palvemelta lukujärjestyksen tiedot ja aikataulut |
+| Toiminnon valinta | Käyttäjän on voitava valita pääikkunasta eri toimintoja. Painiketta painamalla pitää tapahtua sitä kuvaava toiminto: Etsi luokka -> luokan etsintä näkymä avautuu |
+| Luokan oven skannaus | Sovelluksen pitää aktivoida kamera ja siirtyä QR-tunnuksia tunnistavaan skannaustoimintoon. |
+| Tietojen hakeminen | Sovelluksella pitää pystyä hakemaan luokkia ja opettajia nimen tai tunnuksen perusteella |
+| Paikkatietojen tallennus | Sovelluksella pitää pystyä tallentaa kosketuksesta haluttu sijainti/opettaja tietokantaan. |
+| Aloita navigointi | Sovelluksen pitää aktivoida kamera ja käynnistää navigointi |
+| Päämäärään saapuminen | Sovelluksen pitää ilmoittaa päämäärään saapumisesta |
+| Asetuste muutaminen | Sovelluksen tulee muistaa käyttäjän valitsemat asetukset |
 
   * Tarkentavat käyttötapauksia
 * Ei-funktionaaliset vaatimukset
