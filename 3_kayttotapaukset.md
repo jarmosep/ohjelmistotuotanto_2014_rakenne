@@ -23,11 +23,15 @@ Kehittäjäpainoitteiset tapaukset. Tällaisia tapauksia ovat esimerkiksi:
 
 ### Käyttötapauskaaviot
 
-![Use case diagram example](http://users.metropolia.fi/~jarmosep/Kayttotapaukset1.png)
-![Use case diagram example](http://users.metropolia.fi/~jarmosep/Kayttotapaukset2.png)
+Näissä kaavioissa käyttäjiin on vedetty yhteen opiskelijat, opettajat ja vierailijat. Toinen kaavio kuvaa kehittäjien yleisimpiä käyttötapauksia.
+
+![Use case diagram example1](http://users.metropolia.fi/~jarmosep/kaytto1.png)
+![Use case diagram example2](http://users.metropolia.fi/~jarmosep/kaytto2.png)
 
 
 ### Käyttötapausskenaariot
+
+Näihin käyttötapausskenaarioihin on koottu taulukoittain kaikista yleisimmät tapaukset, joita käyttäjät tekevät.
 
 | Käyttötapaus                      | Käyttäjä tarkastaa skannaamalla tietyn luokan tietokoneiden ohjelmistot                                                                                                                                                                                                                                                                                |
 |-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
