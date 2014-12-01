@@ -2,15 +2,20 @@
 
 #Käyttöliittymän näkymät
 
-Ohjelmiston päävalikosta päästään käsiksi sovelluksen kaikkiin toimintoihin. Pääasialliset toiminnot ovat "Etsi luokka", "Etsi opettaja", "skannaa luokka", asetukset, suosikit, info.
+Ohjelmiston **päävalikosta** päästään käsiksi sovelluksen kaikkiin toimintoihin. Pääasialliset toiminnot ovat "Etsi luokka", "Etsi opettaja", "Skannaa luokka", asetukset, suosikit, info.
 
-Skannausnäkymässä näytölle avautuu puhelimen kameran kuva. Näkymässä skannataan luokan tietoja ovessa olevan QR-tunnuksen avulla, näin saadaan selville esim. mitä ohjelmistoja luokassa on. Luokan ovi värjäytyy vihreäksi, mikäli se on vapaa. Punaiseksi, jos varattu.
+![Paavalikko](http://users.metropolia.fi/~teemusuv/paavalikko.png)
 
-Luokan hakunäkymässä ruudulle tulee hakukenttä, mihin syötetään luokan numero tai sanallinen tunnus (esim. Dolphin). Tämän jälkeen avautuu varmistusvalikko, missä navigointi voidaan aloittaa, peruuttaa tai lisätä luokka suosikkeihin.
+**Luokan hakunäkymässä** ruudulle tulee hakukenttä, mihin syötetään luokan numero tai sanallinen tunnus (esim. Dolphin). Tämän jälkeen avautuu varmistusvalikko, missä navigointi voidaan aloittaa, peruuttaa tai lisätä luokka suosikkeihin.
 
-Opettajan hakunäkymä: Hakukenttä, mihin syötetään opettajan nimi. Toisessa hakukentässä opettajaa voi hakea aineen perusteella. Tämän jälkeen avautuu kolmas hakukenttä, mihin syötetään oman ryhmän tunnus. Tällöin saadaan esille kaikki tietyn koulutusohjelman aineen opettajat. Tämän jälkeen avautuu varmistusvalikko, missä navigointi voidaan aloittaa, peruuttaa tai lisätä opettaja suosikkeihin. Mikäli käyttäjä hakee opettajaa sellaisella aikavälillä jolloin hän
+![LuokkaNavigaatio](http://users.metropolia.fi/~teemusuv/luokkanavi.png)
+
+**Opettajan hakunäkymä:** Hakukenttä, mihin syötetään opettajan nimi. Toisessa hakukentässä opettajaa voi hakea aineen perusteella. Tämän jälkeen avautuu kolmas hakukenttä, mihin syötetään oman ryhmän tunnus. Tällöin saadaan esille kaikki tietyn koulutusohjelman aineen opettajat. Tämän jälkeen avautuu varmistusvalikko, missä navigointi voidaan aloittaa, peruuttaa tai lisätä opettaja suosikkeihin. Mikäli käyttäjä hakee opettajaa sellaisella aikavälillä jolloin hän
 ei ole ole luokassa, käyttäjältä kysytään haluaako tämä navigoida opettajan toimistoon. 
 
+![OpeNavigaatio](http://users.metropolia.fi/~teemusuv/openavi.png)
+
+**Skannausnäkymässä** näytölle avautuu puhelimen kameran kuva. Näkymässä skannataan luokan tietoja ovessa olevan QR-tunnuksen avulla, näin saadaan selville esim. mitä ohjelmistoja luokassa on. Luokan ovi värjäytyy vihreäksi, mikäli se on vapaa. Punaiseksi, jos varattu.
 
 ### Keskinäiset suhteet
 - Aloitusvalikossa näkymä on jaettu "palkkeihin". Palkit menevät ylhäältä alas järjestyksessä:
