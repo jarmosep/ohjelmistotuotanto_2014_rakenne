@@ -17,6 +17,20 @@ ei ole ole luokassa, käyttäjältä kysytään haluaako tämä navigoida opetta
 
 **Skannausnäkymässä** näytölle avautuu puhelimen kameran kuva. Näkymässä skannataan luokan tietoja ovessa olevan QR-tunnuksen avulla, näin saadaan selville esim. mitä ohjelmistoja luokassa on. Luokan ovi värjäytyy vihreäksi, mikäli se on vapaa. Punaiseksi, jos varattu.
 
+![Scan](http://users.metropolia.fi/~teemusuv/scan1.png)
+
+**Asetukset** -näkymässä käyttäjä voi muuttaa sovelluksen kielen, valita ääniohjauksen äänen (mies tai nainen), poistaa hakuhistorian, tyhjentää suosikit tai lähettää palautetta kehittäjille.
+
+![Asetukset](http://users.metropolia.fi/~teemusuv/asetukset.png)
+
+**Suosikit** -näkymässä listataan kaikki käyttäjän tallentamat suosikit luokista ja opettajista kategorioituun luetteloon. Käyttäjä voi käyttää näitä listauksia nopeaan navigoinnin aloittamiseen.
+
+![Suosikit](http://users.metropolia.fi/~teemusuv/suosikit.png)
+
+**Info** -näkymässä käyttäjä voi lukea sovelluksen käyttöohjeen ja tietoja sovelluksesta.
+
+![Info](http://users.metropolia.fi/~teemusuv/info.png)
+
 ### Keskinäiset suhteet
 - Aloitusvalikossa näkymä on jaettu "palkkeihin". Palkit menevät ylhäältä alas järjestyksessä:
   - logo
