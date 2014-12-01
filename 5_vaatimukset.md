@@ -13,7 +13,7 @@
 | Paikkatietojen tallennus | Sovelluksella pitää pystyä tallentaa kosketuksesta haluttu sijainti/opettaja tietokantaan. |
 | Aloita navigointi | Sovelluksen pitää aktivoida kamera ja käynnistää navigointi |
 | Päämäärään saapuminen | Sovelluksen pitää ilmoittaa päämäärään saapumisesta |
-| Asetuste muutaminen | Sovelluksen tulee muistaa käyttäjän valitsemat asetukset |
+| Asetusten muutaminen | Sovelluksen tulee muistaa käyttäjän valitsemat asetukset |
 
   * Tarkentavat käyttötapauksia
 * Ei-funktionaaliset vaatimukset
