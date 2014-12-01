@@ -2,7 +2,7 @@
 
 
 * Funktionaaliset vaatimukset
- 
+  
 | Toiminto | Kuvaus |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ohjelman käynnistys | Ohjelma käynnistetään älylaitteelta Track-O-Polian kuvaketta painamalla. |
