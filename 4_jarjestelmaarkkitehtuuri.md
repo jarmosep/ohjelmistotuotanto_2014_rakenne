@@ -4,13 +4,13 @@
 
 ### Mobiilisovellus
 
-Track-o-poliaa käytetään pääasiassa mobiililaitteen kosketusnäyttöä hyödyntämällä. Fyysisiä näppäimiä ei tarvitse olla laitteessa ollenkaan.
+Track-o-poliaa käytetään pääasiassa mobiililaitteen kosketusnäyttöä hyödyntämällä. Fyysisiä näppäimiä ei tarvitse olla laitteessa ollenkaan. Käyttöliittymä piirretään laitteen toimesta. Tämä on yksi harvoista toiminnoista, joita ei suoriteta palvelimella.
 
 Sovelluksen asentaessaan sovellus pyytää käyttäjältä lupaa käyttää laitteen WLAN-vastaanotinta sekä gyroskooppia. Näiden avulla pystytään koululla sijaitsevien WLAN-tukiasemien ja beaconien avulla tarkasti määrittämään käyttäjän sijainti rakennuksessa. Paikkatieto lähetetään palvelimelle prosessoitavaksi ja reitin laskemista varten.
 
 Skannaamista varten sovellus avaa laitteen kameran ja etsii QR-tageja kameran etsimestä. QR-tagista saatu luokan tunnus lähetetään Metropolian palvelimille tilanvarausjärjestelmään varaustilanteen määrittämiseksi.
 
-Käyttäjällä on myös mahdollisuus sovelluksen kautta lähettää palautetta kehittäjille
+Käyttäjällä on myös mahdollisuus sovelluksen kautta lähettää palautetta kehittäjille palvelun toiminnasta ja mahdollisista vikatilanteista. Palvelimella oleva viestin välityspalvelu edelleen välittää nämä viestit kehittäjien sähköpostiin.
 
 ###Palvelinohjelmisto
 
@@ -22,7 +22,7 @@ Navigointiopasteiden renderöijä piirtää puhelimen näytölle ruudulle opaste
 
 Palvelinohjelmisto pitää yllä reaaliaikaista seurantaa opettajien sijainnista koulussa, jotta navigointi heidän luokseen onnistuu mahdollisimman nopeasti. Reaaliaikaisen seurannan rinnalla toimii opettajatietokanta, johon on tallennettuna jokaisen opettajan opettamat aineet, yhteystiedot ja työhuone.
 
-Käyttäjän tallentamat suosikkiluokat tallenetaan puhelimen fyysiseen muistiin, mutta myös palvelimen suosikkitietokantaan. Täten suosikit eivät koskaan häviä vaikka sovellusta käytettäisiin toisella laitteella.
+Käyttäjän tallentamat suosikkiluokat tallennetaan puhelimen fyysiseen muistiin, mutta myös palvelimen suosikkitietokantaan. Täten suosikit eivät häviä vaikka sovellusta käytettäisiin toisella laitteella/puhelin hukkuisi. Suosikkien lisäksi sovellus pitää kirjaa käyttäjän hakuhistoriasta. Myös hakuhistoria tallennetaan niin puhelimen muistiin kuin palvelimelle.
 
 Metropolian palvelimiin pidetään yhteyttä yhteyssovelluksella, jolla saadaan tietoja luokkien varaustilanteista ja niissä olevista ohjelmistoista.
 
