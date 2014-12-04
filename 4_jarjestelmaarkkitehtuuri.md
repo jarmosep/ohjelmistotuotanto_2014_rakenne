@@ -25,3 +25,9 @@ Palvelinohjelmisto pitää yllä reaaliaikaista seurantaa opettajien sijainnista
 Käyttäjän tallentamat suosikkiluokat tallenetaan puhelimen fyysiseen muistiin, mutta myös palvelimen suosikkitietokantaan. Täten suosikit eivät koskaan häviä vaikka sovellusta käytettäisiin toisella laitteella.
 
 Metropolian palvelimiin pidetään yhteyttä yhteyssovelluksella, jolla saadaan tietoja luokkien varaustilanteista ja niissä olevista ohjelmistoista.
+
+###Metropolian palvelimet
+
+Metropolian palvelimilla sijaitsevat opiskelijapalvelut lukkarikone ja tilanvarausjärjestelmä ovat pääasialliset toiminnot, joita Track-o-polia käyttää hyväkseen. Lukkarikoneen kautta voidaan suoraan käynnistää navigointi haluttuun luokkaan yksinkertaisesti luokan tunnusta painamalla.
+
+Tilanvarausjärjestelmästä haetaan skannaustoiminnolla saadulla luokan tunnuksella luokan varaustilanne sekä siellä olevat ohjelmistot.
