@@ -4,11 +4,11 @@ Projekti eteni alusta loppuun jouhevasti. Aihealueet oltiin jaettu melko tasapuo
 
 **Käytetyt työtunnit**
 
-Käytettyihin työtunteihin on sisällytetty ideoinnit oppitunneilla, kirjoittaminen ja mallintaminen
+Käytettyihin työtunteihin on sisällytetty ideoinnit oppitunneilla, kirjoittaminen, mallintaminen ja yleiset projektinhallinnalliset asiat (ohjaaminen, etenemisen ja laadun valvonta).
 
 | Henkilö | Aiheet | Käytetyt työtunnit |
 |---------|-----------------------------|--------------------|
-| Jarmo | Johdanto, käyttötapaukset | 25h |
+| Jarmo | Johdanto, käyttötapaukset + projektinhallinta | 25h |
 | Teemu | Vaatimukset, käyttöliittymä | 20h |
 | Joni | Järjestelmäarkkitehtuuri | 14h |
 
